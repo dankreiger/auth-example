@@ -13,15 +13,15 @@ npm install
 
 1. create config.js file with secret string
 
-```js
-// Hold application secrets and config
-module.exports = {
-  secret: 'SOME_SECRET_STRING'
-};
-```
+   ```js
+   // Hold application secrets and config
+   module.exports = {
+     secret: 'SOME_SECRET_STRING'
+   };
+   ```
 
 2. Run dev sets
 
-```
-  npm run dev
-```
+   ```sh
+     npm run dev
+   ```
